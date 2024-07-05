@@ -1,0 +1,2 @@
+# GraphRAG
+use GraphRAG demo
